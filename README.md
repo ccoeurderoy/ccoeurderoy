@@ -3,11 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccoeurderoy&label=Profile%20views&color=0e75b6&style=flat" alt="ccoeurderoy" /> </p>
 
-- 🔭 I’m currently working on [Algoan](https://algoan.com) as a software architect, a fintech revolutionising the credit sector by making it fairer and more responsible. 
+- 🔭 I’m currently working on [Algoan](https://www.algoan.com) as a software architect, a fintech revolutionising the credit sector by making it fairer and more responsible. 
 
 - 🌱 I’m currently learning **Google Cloud Platform Architect path** in order to get the Google certification
 
 - 📫 How to reach me **charlescoeurderoy@gmail.com**
+
+### Experiences
+
+I've started as a junior front-end developer on the first version of [AngularJS](https://angularjs.org/) in 2016. I've then moved to the backend side starting with [Loopback v2](https://loopback.io/doc/en/lb2/), [ExpressJS](https://expressjs.com) and also [KoaJS](https://koajs.com/) but in 2019, I fell in love with TypeScript and [NestJS](https://nestjs.com) awesome framework 🥰 
+
+Now, as a software architect working on Google Cloud Platform, I'm learning a lot of things:
+- Machine Learning Ops with tools like [Seldon Core]()
+- DevOps with [GitHub Actions](https://github.com/features/actions), [CircleCI](https://circleci.com/), [Docker](https://www.docker.com/), [Spinnaker](https://spinnaker.io), [Helm](https://helm.sh/), [Kubernetes](https://kubernetes.io/) and lots of awesome tools that increase the dev experience 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
