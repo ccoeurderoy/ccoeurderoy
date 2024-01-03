@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccoeurderoy&label=Profile%20views&color=0e75b6&style=flat" alt="ccoeurderoy" /> </p>
 
-- 🔭 I’m currently working on [Algoan](https://www.algoan.com) as a software architect, a fintech revolutionising the credit sector by making it fairer and more responsible. 
-
 - 🌱 I’m currently learning **Google Cloud Platform Architect path** in order to get the Google certification
 
 - 📫 How to reach me **charlescoeurderoy@gmail.com**
