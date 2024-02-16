@@ -3,22 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccoeurderoy&label=Profile%20views&color=0e75b6&style=flat" alt="ccoeurderoy" /> </p>
 
-- 🌱 I’m currently learning **Google Cloud Platform Architect path** in order to get the Google certification
+- 🧢 Software Engineer: Senior Node.js Backend Developer / DevOps / Cloud Architect
 
 - 📫 How to reach me **charlescoeurderoy@gmail.com**
 
 ### Experiences
 
-I've started as a junior front-end developer on the first version of [AngularJS](https://angularjs.org/) in 2016. I've then moved to the backend side starting with [Loopback v2](https://loopback.io/doc/en/lb2/), [ExpressJS](https://expressjs.com) and also [KoaJS](https://koajs.com/) but in 2019, I fell in love with TypeScript and [NestJS](https://nestjs.com) awesome framework 🥰 
+I started as a junior front-end developer on the first version of [AngularJS](https://angularjs.org/) in 2016. I've then moved to the backend side starting with [Loopback v2](https://loopback.io/doc/en/lb2/), [ExpressJS](https://expressjs.com), and also [KoaJS](https://koajs.com/) but in 2019, I fell in love with TypeScript and [NestJS](https://nestjs.com) awesome framework 🥰 
 
-Now, as a software architect working on Google Cloud Platform, I'm learning a lot of things:
-- Machine Learning Ops with tools like [Seldon Core]()
+As a software architect working on Google Cloud Platform, I've learned a lot of things:
+- Machine Learning Ops with tools like [Seldon Core](https://www.seldon.io/solutions/seldon-core)
 - DevOps with [GitHub Actions](https://github.com/features/actions), [CircleCI](https://circleci.com/), [Docker](https://www.docker.com/), [Spinnaker](https://spinnaker.io), [Helm](https://helm.sh/), [Kubernetes](https://kubernetes.io/) and lots of awesome tools that increase the dev experience 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ccoeur2roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ccoeur2roy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/charles-coeurderoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-coeurderoy" height="30" width="40" /></a>
+<a href="https://charles-coeurderoy.notion.site/Charles-Coeurderoy-786a529e1c82431fb0460a1812e688df" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" alt="charles-coeurderoy-notion" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
