@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccoeurderoy&label=Profile%20views&color=0e75b6&style=flat" alt="ccoeurderoy" /> </p>
 
+> I'm available as a freelancer and ready to work! Feel free to contact me if you need a senior developer to contribute to your project 😁
+
 - 🧢 Software Engineer: Senior Node.js Backend Developer / DevOps / Cloud Architect
 
 - 📫 How to reach me **charlescoeurderoy@gmail.com**
@@ -19,7 +21,7 @@ As a software architect working on Google Cloud Platform, I've learned a lot of 
 <p align="left">
 <a href="https://twitter.com/ccoeur2roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ccoeur2roy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/charles-coeurderoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-coeurderoy" height="30" width="40" /></a>
-<a href="https://charles-coeurderoy.notion.site/Charles-Coeurderoy-786a529e1c82431fb0460a1812e688df" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" alt="charles-coeurderoy-notion" height="30" width="40" /></a>
+<a href="https://charles-coeurderoy.notion.site/Charles-Coeurderoy-786a529e1c82431fb0460a1812e688df" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" alt="charles-coeurderoy-notion" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
